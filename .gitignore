@@ -15,7 +15,5 @@
 *build
 *nbproject
 *build.xml
-res/
 bin/
-gen/
 .apklib/
